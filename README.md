@@ -1,1 +1,1 @@
-Simple project that takes movies from a databse and displays it in cards, based on the search words used.
+Simple project that uses API to fetch movies from a database and displays it in cards, based on the search words used.
