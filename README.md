@@ -1,1 +1,1 @@
-Simple project that uses API to fetch movies from a database and displays it in cards, based on the search words used.
+A fun project that made in React that utilizes the MovieDB API. Project was mainly made to practice useState, useEffect and Fetching in React. The project utilizes TailwindCSS for styling. The project is responsive and has a dark mode. The project is deployed with Vercel.
